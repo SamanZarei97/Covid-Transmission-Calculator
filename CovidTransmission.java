@@ -1,4 +1,4 @@
-/* Saman Zarei
+/* 
 *  This program has designed to compute the risk of Covid transmission
 *  between two people at their work palce based on the amount of time
 *  they have been cantacted together.
